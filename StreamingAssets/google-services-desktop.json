@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "926441506759",
+    "project_id": "testing-67d9b",
+    "storage_bucket": "testing-67d9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926441506759:android:d113bd63a59caa76957be2",
+        "android_client_info": {
+          "package_name": "com.zoonies.zooniesBR"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926441506759-bss5hp5jukogoasaimqhn8l6qum95o5l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6uBxyi4r0yMvn0Hh2yO5vhGY_qi-0v-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926441506759-bss5hp5jukogoasaimqhn8l6qum95o5l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "926441506759-ggq91763qvm63rvb6n7avgog0hi6at23.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.zoonies.zooniesBR"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
